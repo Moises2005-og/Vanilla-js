@@ -1,0 +1,25 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box; 
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+}
+
+.content {
+    margin-top: 5%;
+}
+
+.btns {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+}
+
+img {
+    width: 300px;
+    margin-bottom: 20px;
+}
